@@ -1,5 +1,3 @@
-'use client';
-
 import React, { FormEvent } from 'react';
 
 import { BiPaste } from 'react-icons/bi';
@@ -99,7 +97,6 @@ export function Downloader(props: Props) {
 
         {data?.withoutWatermark && (
           <div className='w-full flex md:flex-row flex-col gap-6 justify-between shadow bg-[#665896] p-6'>
-            
 
             <div className='w-full flex flex-col gap-2'>
               <a

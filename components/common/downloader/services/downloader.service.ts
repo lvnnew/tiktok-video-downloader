@@ -2,8 +2,6 @@ import axios from 'axios';
 import { DownloaderCredentials, DownloaderResponse } from '../types/downloader.type';
 import { Video } from '../types/video.type';
 
-
-
 const DOWNLOAD_API_URL = process.env.NEXT_PUBLIC_URL
 const IFRAME_API_URL = process.env.NEXT_PUBLIC_IFRAME
 const IFRAME_API_KEY = process.env.NEXT_PUBLIC_IFRAME_API_KEY
