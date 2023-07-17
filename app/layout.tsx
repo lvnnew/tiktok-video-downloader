@@ -13,7 +13,7 @@ export const metadata = {
   description: 'Tiktok mp3 mp4 downloader',
 };
 
-const languages = ['en', 'ru'];
+const languages = ['en', 'ru', 'ae', 'de', 'es', 'fr', 'id', 'it', 'jp', 'kr', 'my', 'nl', 'pl', 'pt', 'th', 'tr', 'ua', 'vn'];
 
 export async function generateStaticParams() {
   return languages.map((lng) => ({ lng }));
