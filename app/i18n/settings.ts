@@ -1,5 +1,5 @@
 export const fallbackLng = 'en'
-export const languages = [fallbackLng, 'ru']
+export const languages = [fallbackLng, 'ru', 'ae', 'de', 'es', 'fr', 'id', 'it', 'jp', 'kr', 'my', 'nl', 'pl', 'pt', 'th', 'tr', 'ua', 'vn']
 
 export const defaultNS = 'translation'
 
