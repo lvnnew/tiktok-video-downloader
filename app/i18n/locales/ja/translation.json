@@ -46,25 +46,18 @@
   "video-on-ipad-4-content": "この方法が適さない場合は、以下のTikTokセーバーの使い方をお読みください。",
   "home-accordion-tab-header-1": "TikTok動画をダウンロードするためにお金を払う必要がありますか？",
   "home-accordion-tab-content-1": "いいえ、TikTok動画ダウンロードサービスは常に無料ですので、一切お支払いいただく必要はありません！Google Chrome、Mozilla Firefox、Safari、Microsoft Edgeなどのすべての最新ブラウザに対応しています。",
-
   "home-accordion-tab-header-2": "拡張機能をインストールする必要がありますか？",
   "home-accordion-tab-content-2": "いいえ。TikTokオンラインから保存してウォーターマークを削除するには、リンクだけが必要です。入力フィールドに貼り付け、変換するための適切な形式を選択します。その後は、TikTokウォーターマークリムーバーにお任せください。",
-
   "home-accordion-tab-header-3": "ダウンロード後、TikTokの動画はどこに保存されますか？",
   "home-accordion-tab-content-3": "トレードマークなしでTikTokから保存する場合、ファイルは通常デフォルトの場所に保存されます。ブラウザの設定で、ダウンロードしたTikTok動画の保存先フォルダを変更したり、手動で選択したりすることができます。",
-
   "home-accordion-tab-header-4": "TikTokの動画をダウンロードするには、TikTokのアカウントが必要ですか？",
   "home-accordion-tab-content-4": "いいえ、TikTokアカウントは必要ありません。TikTok動画のリンクをお持ちの場合、ダウンロード可能です。ページ上部のダウンロードフィールドに貼り付けて、「ダウンロード」をクリックすれば、ダウンロードできます。ウォーターマークを削除し、数秒で使用できる状態になります。",
-
   "home-accordion-tab-header-5": "TikTokダウンローダーでは、非公開アカウントからの動画を保存することはできますか？",
   "home-accordion-tab-content-5": "ウォーターマークなしのTikTokセーバーは、非公開アカウントのコンテンツにアクセスできず、そこからビデオを保存することはできません。保存するためには、アカウントが公開されていることを確認する必要があります。",
-
   "home-accordion-tab-header-6": "TikTok動画のダウンロードリンクを取得する方法は？",
   "home-accordion-tab-content-6": "TikTokアプリを開き、保存したい動画を選択します。「共有」をクリックし、「リンクをコピー」をクリックします。ウォーターマークなしのTikTok動画ダウンロードのURLがクリップボードに準備されます。",
-
   "home-accordion-tab-header-7": "iPhone（iOS）でMP4のTiktokビデオから保存する方法は？",
   "home-accordion-tab-content-7": "Appleのプライバシーポリシーのため、iOS 12以降から始まると、iPhoneの透かしがなければTiktokを保存することはできません。 iOSを最新バージョンに更新して、Safariを使用してTiktokビデオのダウンロードプロセスを起動できるようにする必要があります。 それでも保存できない場合は、上記の指示に従ってください。",
-
   "home-accordion-tab-header-8": "TikTok Downloader を Android フォンで使用できますか?",
   "home-accordion-tab-content-8": "はい、SSSTik.io を使用して、透かしなしで TikTok ビデオを Android フォンに保存できます。 当社のサービスは 100% 無料で、非常に高速で、常に更新されています。",
   "home-accordion-tab-header-9": "TikTok 保存方法 HD?",
@@ -139,5 +132,27 @@
   "story-accordion-tab-header-2": "TikTok プロファイルからストーリー、ビデオ、またはスライドショーをダウンロードできますか?",
   "story-accordion-tab-content-2": "はい、コンテンツをダウンロードして、デバイス (スマートフォンまたはコンピューター) に保存できます。 TikTok ストーリー セーバーの入力フィールドにリンクを貼り付け、ファイル形式を選択するだけです。",
   "story-accordion-tab-header-3": "TikTok ストーリー ダウンローダーを使用するには料金を支払う必要がありますか?",
-  "story-accordion-tab-content-3": "TikTok ビューアーは、保存するファイルの数に関係なく無料です。 TikTok のストーリーやスライドショーを表示したり、匿名でダウンロードしたりしたい場合は、試してみてください。"
+  "story-accordion-tab-content-3": "TikTok ビューアーは、保存するファイルの数に関係なく無料です。 TikTok のストーリーやスライドショーを表示したり、匿名でダウンロードしたりしたい場合は、試してみてください。",
+  "faq-header-text": "よくある質問",
+  "faq-accordion-tab-header-1": "ダウンロードしようとしているときにエラーが表示されるのはなぜですか？",
+  "faq-accordion-tab-content-1": "いくつかの理由があります：",
+  "faq-accordion-tab-bold-content-1": "ビデオはプライベートです。",
+  "faq-accordion-tab-standard-content-1": "申し訳ありませんが、対処できません。",
+  "faq-accordion-tab-bold-content-2": "ビデオは利用できません。",
+  "faq-accordion-tab-standard-content-2": "このケースを勉強しています。 可能であれば修正します。",
+  "faq-accordion-tab-bold-content-3": "間違った種類のリンクを貼り付けます。",
+  "faq-accordion-tab-standard-content-3": "現時点では、単一のビデオを含むページからのダウンロードをサポートしています。 ユーザープロファイルリンクなどを貼り付けると、エラーが表示されます。",
+  "faq-accordion-tab-bold-content-4": "私たちの側に何かが間違っています。",
+  "faq-accordion-tab-standard-content-4": "リンクが正しいと確信している場合は、もう一度ダウンロードしてみてください。",
+  "faq-accordion-tab-header-2": "ビデオの品質は低いです。 HDでダウンロードする方法はありますか？",
+  "faq-accordion-tab-content-2": "ビデオの解像度やその他のパラメーターは変更しません。 ダウンロードするビデオを編集しません。 Tiktokサーバーにある元のファイルへのリンクのみを提供します。",
+  "faq-accordion-tab-br-content-2": "基本的に、それは元のファイルの品質が低いため、より良い品質を作ることができないことを意味します。",
+  "faq-accordion-tab-header-3": "私のIPが禁止されたようです。 私は何をすべきか？",
+  "faq-accordion-tab-content-3": "これは偶然に起こる可能性があります。 sstiktok.com[at]gmail.com までご連絡いただき、禁止を解除する IP を提供してください。",
+  "faq-accordion-tab-header-4": "ビデオダウンロードアプリはありますか？",
+  "faq-accordion-tab-content-4": "もちろん、APKページから直接ダウンロードして、問題なくTiktokからビデオや音楽をダウンロードできます。",
+  "faq-accordion-tab-header-5": "アプリをインストールできませんが、どうすればよいですか？",
+  "faq-accordion-tab-content-5": "Wi-Fiまたはインターネットを確認して接続があるかどうかを確認し、デバイスに十分な空きスペースがあり、Androidバージョンでサポートされているかどうかを確認します。",
+  "faq-accordion-tab-header-6": "複数のファイルのダウンロードの機能を追加できますか？",
+  "faq-accordion-tab-content-6": "今はやめろ。 後でこの質問に戻ります"
 }

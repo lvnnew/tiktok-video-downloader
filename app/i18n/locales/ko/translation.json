@@ -46,25 +46,18 @@
   "video-on-ipad-4-content": "워터 마크없이 TikTok에서 비디오를 다운로드하려면 아래 지침을 읽으십시오.",
   "home-accordion-tab-header-1": "TikTok MP4 다운로드 서비스 비용을 지불해야 하나요?",
   "home-accordion-tab-content-1": "아니요, 우리의 TikTok 비디오 다운로드는 항상 무료이기 때문에 비용을 지불할 필요가 없습니다!",
-
   "home-accordion-tab-header-2": "Tiktok 비디오 다운로더를 사용하려면 내선을 설치해야합니까?",
   "home-accordion-tab-content-2": "아니요. TikTok를 저장하고 온라인으로 Tiktok Watermark를 제거하려면 링크 만 있으면됩니다. 입력 필드에 붙여 넣고 전환 할 적절한 형식을 선택하십시오. Tiktok Watermark Remover 앱은 나머지를 수행합니다.",
-
   "home-accordion-tab-header-3": "다운로드 후 TikTok 비디오는 어디에 저장됩니까?",
   "home-accordion-tab-content-3": "상표 없이 TikTok에서 저장하면 일반적으로 파일이 기본 위치에 저장됩니다. 브라우저 설정에서 다운로드한 TikTok 비디오의 대상 폴더를 변경하고 수동으로 선택할 수 있습니다.",
-
   "home-accordion-tab-header-4": "비디오를 다운로드하려면 TikTok 계정이 있어야 하나요?",
   "home-accordion-tab-content-4": "아니요, TikTok 계정이 필요하지 않습니다. 링크가 있는 모든 비디오를 다운로드할 수 있습니다. 페이지 상단의 다운로드 필드에 붙여넣고 '다운로드'를 클릭하기만 하면 됩니다. TikTok 다운로드 서비스는 TikTok에서 워터마크를 제거하고 몇 초 안에 비디오를 다운로드할 준비가 됩니다.",
-
   "home-accordion-tab-header-5": "개인 계정의 콘텐츠를 저장할 수 있습니까?",
   "home-accordion-tab-content-5": "워터마크가 없는 TikTok 다운로더는 개인 계정의 콘텐츠에 액세스할 수 없으며 거기에서 비디오를 저장할 수 없습니다. TikTok 비디오를 다운로드하려면 계정이 공개 상태인지 확인해야 합니다.",
-
   "home-accordion-tab-header-6": "Tiktok 동영상 링크를 얻는 방법은 무엇입니까?",
   "home-accordion-tab-content-6": "TikTok 앱을 열고 저장하려는 비디오를 선택하십시오. '공유'를 클릭 한 다음 '링크를 복사하십시오'. Tiktok 비디오 다운로드 URL이 클립 보드에 준비되어 있습니다.",
-
   "home-accordion-tab-header-7": "iPhone (iOS)의 MP4에서 Tiktok 비디오에서 저장하는 방법은 무엇입니까?",
   "home-accordion-tab-content-7": "iOS 12 이하부터 Apple의 개인 정보 보호 정책으로 인해 WaterMark없이 Tiktok을 iPhone에 저장할 수 없습니다. Safari를 사용하고 Tiktok 비디오 다운로드 프로세스를 시작할 수 있도록 최신 버전으로 iOS를 업데이트해야합니다. 여전히 저장할 수 없다면 위의 지침을 따르십시오.",
-
   "home-accordion-tab-header-8": "내 Android 휴대폰에서 TikTok 다운로더를 사용할 수 있나요?",
   "home-accordion-tab-content-8": "예, SSSTik.io을 사용하여 Android 휴대폰에서 워터마크 없이 TikTok 비디오를 저장할 수 있습니다. 저희 서비스는 100% 무료이며 매우 빠르고 지속적으로 업데이트됩니다.",
   "home-accordion-tab-header-9": "TikTok 비디오를 HD로 다운로드할 수 있습니까?",
@@ -139,5 +132,27 @@
   "story-accordion-tab-header-2": "TikTok 프로필에서 스토리, 비디오 또는 슬라이드쇼를 다운로드할 수 있습니까?",
   "story-accordion-tab-content-2": "예, 콘텐츠를 다운로드하여 장치(스마트폰 또는 컴퓨터)에 저장할 수 있습니다. TikTok 스토리 세이버의 입력 필드에 링크를 붙여넣고 파일 형식을 선택하기만 하면 됩니다.",
   "story-accordion-tab-header-3": "TikTok 스토리 다운로더를 사용하려면 비용을 지불해야 하나요?",
-  "story-accordion-tab-content-3": "우리의 TikTok 뷰어는 얼마나 많은 파일을 저장하든 상관없이 무료입니다. TikTok에서 스토리나 슬라이드쇼를 보거나 익명으로 다운로드하고 싶다면 사용해 보세요."
+  "story-accordion-tab-content-3": "우리의 TikTok 뷰어는 얼마나 많은 파일을 저장하든 상관없이 무료입니다. TikTok에서 스토리나 슬라이드쇼를 보거나 익명으로 다운로드하고 싶다면 사용해 보세요.",
+  "faq-header-text": "자주 묻는 질문",
+  "faq-accordion-tab-header-1": "다운로드하려고 할 때 오류가 표시되는 이유는 무엇입니까?",
+  "faq-accordion-tab-content-1": "몇 가지 이유가 있습니다.",
+  "faq-accordion-tab-bold-content-1": "비디오는 비공개입니다.",
+  "faq-accordion-tab-standard-content-1": "죄송합니다. 우리는 그것을 다룰 수 없습니다.",
+  "faq-accordion-tab-bold-content-2": "비디오를 사용할 수 없습니다.",
+  "faq-accordion-tab-standard-content-2": "우리는이 사건을 연구하고 있습니다. 가능하면 고칠 것입니다.",
+  "faq-accordion-tab-bold-content-3": "잘못된 유형의 링크를 붙여 넣습니다.",
+  "faq-accordion-tab-standard-content-3": "이 순간 우리는 단일 비디오가 포함 된 페이지에서 다운로드를 지원합니다. 사용자 프로필 링크 나 다른 것을 붙여 넣으면 오류가 표시됩니다.",
+  "faq-accordion-tab-bold-content-4": "우리 편이 잘못되었습니다.",
+  "faq-accordion-tab-standard-content-4": "링크가 올바른지 확신한다면 한 번 더 다운로드하십시오.",
+  "faq-accordion-tab-header-2": "비디오 품질은 낮습니다. HD로 다운로드 할 수있는 방법이 있습니까?",
+  "faq-accordion-tab-content-2": "우리는 비디오의 해상도 또는 다른 매개 변수를 변경하지 않습니다. 다운로드 한 비디오를 편집하지 않습니다. Tiktok 서버에있는 원본 파일에 대한 링크 만 제공합니다.",
+  "faq-accordion-tab-br-content-2": "기본적으로 원본 파일이 품질이 좋지 않기 때문에 더 나은 품질을 만들 수 없다는 것을 의미합니다.",
+  "faq-accordion-tab-header-3": "내 IP가 금지 된 것 같습니다. 어떻게해야하나요?",
+  "faq-accordion-tab-content-3": "이는 우발적으로 발생할 수 있습니다. sstiktok.com[at]gmail.com으로 연락하여 차단을 해제해야 하는 IP를 제공하십시오.",
+  "faq-accordion-tab-header-4": "비디오 다운로드 앱이 있습니까?",
+  "faq-accordion-tab-content-4": "물론 APK 페이지에서 직접 다운로드하고 문제없이 Tiktok에서 비디오 나 음악을 다운로드 할 수 있습니다.",
+  "faq-accordion-tab-header-5": "앱을 설치할 수 없습니다. 어떻게해야합니까?",
+  "faq-accordion-tab-content-5": "Wi-Fi 또는 인터넷을 확인하여 연결이 있는지 확인하고 장치에 충분한 여유 공간이 있고 Android 버전에서 지원되는지 확인하십시오.",
+  "faq-accordion-tab-header-6": "여러 파일 다운로드 기능을 추가 할 수 있습니까?",
+  "faq-accordion-tab-content-6": "지금은 아닙니다. 나중에이 질문으로 돌아갈 것입니다"
 }

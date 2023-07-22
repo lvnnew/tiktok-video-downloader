@@ -46,25 +46,18 @@
   "video-on-ipad-4-content": "Jika kaedah ini tidak sesuai dengan anda, baca arahan untuk penjimat TikTok di bawah.",
   "home-accordion-tab-header-1": "Adakah saya perlu membayar untuk perkhidmatan muat turun TikTok MP4?",
   "home-accordion-tab-content-1": "Tidak, anda tidak perlu membayar apa-apa, kerana muat turun video TikTok kami sentiasa percuma!",
-
   "home-accordion-tab-header-2": "Adakah saya perlu memasang sambungan untuk download video TikTok?",
   "home-accordion-tab-content-2": "Tidak. Untuk download video TikTok dalam talian, anda hanya memerlukan pautan. Tampalkannya ke dalam medan input dan pilih format yang sesuai untuk penukaran.",
-
   "home-accordion-tab-header-3": "Di manakah video TikTok disimpan?",
   "home-accordion-tab-content-3": "Apabila anda download video TikTok, fail biasanya disimpan ke lokasi lalai anda. Dalam tetapan penyemak imbas anda, anda boleh menukar dan memilih folder destinasi secara manual untuk video TikTok anda yang dimuat turun.",
-
   "home-accordion-tab-header-4": "Adakah saya perlu mempunyai akaun TikTok untuk memuat turun video?",
   "home-accordion-tab-content-4": "Tidak, anda tidak perlu mempunyai akaun TikTok. Anda boleh memuat turun mana-mana video TikTok apabila anda mempunyai pautan kepadanya, cuma tampalkannya ke dalam medan muat turun di bahagian atas halaman dan klik 'Muat Turun'. Ia akan siap dalam beberapa saat.",
-
   "home-accordion-tab-header-5": "Bolehkah saya memuat turun kandungan daripada akaun peribadi?",
   "home-accordion-tab-content-5": "Pemuat turun TikTok kami tidak boleh mengakses kandungan akaun peribadi dan tidak boleh menyimpan video dari sana. Anda mesti memastikan akaun tersebut terbuka untuk kami memuat turun video TikTok untuk anda.",
-
   "home-accordion-tab-header-6": "Bagaimana untuk mendapatkan pautan muat turun untuk video TikTok?",
   "home-accordion-tab-content-6": "Buka apl TikTok dan Pilih video yang ingin anda muat turun. Klik 'Kongsi' dan cari butang di sana 'Salin Pautan'.Muat turun anda tanpa URL tera air sudah sedia pada papan keratan anda.",
-
   "home-accordion-tab-header-7": "Bagaimana untuk menyelamatkan dari video Tiktok di MP4 pada iPhone (iOS)?",
   "home-accordion-tab-content-7": "Oleh kerana dasar privasi Apple, bermula dari iOS 12 dan ke bawah, anda tidak boleh menyimpan tiktok tanpa tanda air ke iPhone anda. Anda mesti mengemas kini iOS ke versi terkini untuk dapat menggunakan Safari dan melancarkan proses muat turun video Tiktok. Jika anda masih tidak dapat menyimpannya, ikuti arahan di atas.",
-
   "home-accordion-tab-header-8": "Bolehkah saya menggunakan TikTok Downloader anda pada telefon Android?",
   "home-accordion-tab-content-8": "Ya, anda boleh menggunakan SSSTik.io untuk menyimpan video TikTok tanpa tera air pada telefon Android. Perkhidmatan kami adalah 100 peratus percuma, sangat pantas dan sentiasa dikemas kini.",
   "home-accordion-tab-header-9": "Bolehkah saya memuat turun video TikTok dalam HD?",
@@ -139,5 +132,27 @@
   "story-accordion-tab-header-2": "Bolehkah saya memuat turun cerita, video atau tayangan slaid daripada profil TikTok?",
   "story-accordion-tab-content-2": "Ya, anda boleh memuat turun kandungan dan menyimpannya ke peranti anda: telefon pintar atau komputer. Apa yang anda perlukan ialah menampal pautan ke dalam medan input pada TikTok story saver kami dan pilih format fail.",
   "story-accordion-tab-header-3": "Adakah saya perlu membayar untuk menggunakan TikTok story downloader?",
-  "story-accordion-tab-content-3": "TikTok Viewer kami adalah percuma tidak kira berapa banyak fail yang anda simpan. Cubalah jika anda ingin melihat cerita atau tayangan slaid daripada TikTok atau memuat turunnya tanpa nama."
+  "story-accordion-tab-content-3": "TikTok Viewer kami adalah percuma tidak kira berapa banyak fail yang anda simpan. Cubalah jika anda ingin melihat cerita atau tayangan slaid daripada TikTok atau memuat turunnya tanpa nama.",
+  "faq-header-text": "Soalan yang sering ditanya",
+  "faq-accordion-tab-header-1": "Mengapa saya melihat kesilapan ketika cuba memuat turun?",
+  "faq-accordion-tab-content-1": "Terdapat beberapa sebab:",
+  "faq-accordion-tab-bold-content-1": "Video adalah peribadi.",
+  "faq-accordion-tab-standard-content-1": "Maaf, kami tidak boleh berurusan dengannya.",
+  "faq-accordion-tab-bold-content-2": "Video tidak tersedia.",
+  "faq-accordion-tab-standard-content-2": "Kami sedang mengkaji kes ini. Kami akan memperbaikinya jika boleh.",
+  "faq-accordion-tab-bold-content-3": "Anda menampal jenis pautan yang salah.",
+  "faq-accordion-tab-standard-content-3": "Pada masa ini kami menyokong memuat turun dari halaman yang mengandungi satu video. Jika anda menampal pautan profil pengguna atau sesuatu yang lain, anda akan melihat ralat.",
+  "faq-accordion-tab-bold-content-4": "Ada yang tidak kena di pihak kami.",
+  "faq-accordion-tab-standard-content-4": "Jika anda yakin bahawa pautan anda betul, cuba muat turun sekali lagi.",
+  "faq-accordion-tab-header-2": "Kualiti video adalah rendah. Adakah terdapat cara untuk memuat turun dalam HD?",
+  "faq-accordion-tab-content-2": "Kami tidak mengubah resolusi atau mana -mana parameter video lain. Kami tidak mengedit video yang anda muat turun. Kami hanya menyediakan pautan ke fail asal yang terletak di pelayan Tiktok.",
+  "faq-accordion-tab-br-content-2": "Pada dasarnya ini bermakna kita tidak boleh membuat kualiti yang lebih baik kerana fail asal berada dalam kualiti yang buruk.",
+  "faq-accordion-tab-header-3": "Sepertinya IP saya diharamkan. Apa patut saya buat?",
+  "faq-accordion-tab-content-3": "Ini boleh berlaku secara tidak sengaja. Sila hubungi kami di sstiktok.com[at]gmail.com dan berikan IP yang tidak sepatutnya diharamkan.",
+  "faq-accordion-tab-header-4": "Adakah anda mempunyai aplikasi muat turun video?",
+  "faq-accordion-tab-content-4": "Sudah tentu, anda boleh memuat turunnya terus dari halaman APK kami dan memuat turun video atau muzik dari Tiktok tanpa sebarang masalah.",
+  "faq-accordion-tab-header-5": "Saya tidak dapat memasang aplikasinya, apa yang harus saya lakukan?",
+  "faq-accordion-tab-content-5": "Semak Wi-Fi atau Internet anda untuk melihat sama ada terdapat sambungan, dan juga periksa sama ada peranti anda mempunyai ruang kosong yang cukup dan disokong oleh versi Android anda.",
+  "faq-accordion-tab-header-6": "Bolehkah anda menambah ciri pelbagai fail yang memuat turun?",
+  "faq-accordion-tab-content-6": "Bukan sekarang. Kami akan kembali kepada soalan ini kemudian"
 }

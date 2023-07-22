@@ -46,25 +46,18 @@
   "video-on-ipad-4-content": "Jika metode ini tidak sesuai untuk kamu, perhatikan instruksi di bawah ini.",
   "home-accordion-tab-header-1": "Apakah saya harus membayar untuk unduh video TikTok?",
   "home-accordion-tab-content-1": "Tidak, kamu tidak perlu membayar apapun, karena unduh TikTok tanpa tanda air dalam hd gratis!",
-
   "home-accordion-tab-header-2": "Apakah saya perlu menginstal ekstensi untuk save from TikTok?",
   "home-accordion-tab-content-2": "Tidak. Untuk download TikTok MP4 dan menghapus watermark dari TikTok tanpa aplikasi, kamu hanya perlu tautan. Tempelkan ke kolom input dan pilih format yang sesuai untuk konversi.",
-
   "home-accordion-tab-header-3": "Di mana kamu download video TikTok tanpa watermark?",
   "home-accordion-tab-content-3": "Saat kamu unduh TikTok no watermark, video tersebut akan disimpan di folder unduhan yang telah kamu tetapkan sebagai default. Browser kamu biasanya menyetel folder ini untukmu, tetapi kamu bisa mengubah setelan browser secara manual.",
-
   "home-accordion-tab-header-4": "Apakah saya perlu memiliki akun TikTok untuk mengunduh video Tiktok?",
   "home-accordion-tab-content-4": "Tidak, Anda tidak perlu memiliki akun TikTok. Anda dapat meluncurkan Download Tiktok No Watermark Proses Ketika Anda memiliki tautan ke sana, cukup tempel ke bidang input di bagian atas halaman dan klik 'Unduh'. Layanan unduhan TikTok kami akan menghapus tanda air dari TikTok dan video akan siap digunakan dalam beberapa detik.",
-
   "home-accordion-tab-header-5": "Dapatkah TikTok Downloader Anda menyimpan video dari akun pribadi?",
   "home-accordion-tab-content-5": "TikTok Saver kami tidak dapat mengakses konten akun pribadi dan tidak dapat menyimpan TikTok tanpa video tanda air dari sana. Anda harus memastikan akun tersebut publik agar kami dapat menyimpan dari TikTok untuk Anda.",
-
   "home-accordion-tab-header-6": "Bagaimana cara mendapatkan tautan unduhan untuk video TikTok?",
   "home-accordion-tab-content-6": "Buka aplikasi TikTok dan pilih video yang ingin Anda save TikTok. Klik 'Bagikan' dan temukan tombol di sana 'Salin Tautan'. Unduhan Anda tanpa URL tanda air sudah siap di papan klip Anda.",
-
   "home-accordion-tab-header-7": "Bagaimana cara save from TikTok MP4 di iPhone (iOS)?",
   "home-accordion-tab-content-7": "Karena kebijakan privasi Apple, mulai dari iOS 12 ke bawah, Anda tidak dapat save from TikTok tanpa watermark ke iPhone Anda. Anda harus memperbarui iOS ke versi terbaru untuk dapat menggunakan Safari dan meluncurkan proses pengunduhan video TikTok. Jika Anda masih tidak dapat menyimpannya, ikuti petunjuk di atas.",
-
   "home-accordion-tab-header-8": "Bisakah saya menggunakan pengunduh video TikTok di ponsel Android?",
   "home-accordion-tab-content-8": "Ya, Anda dapat menggunakan aplikasi download video TikTok di ponsel Android. Layanan kami 100 persen gratis, sangat cepat dan terus diperbarui.",
   "home-accordion-tab-header-9": "Bisakah saya save video TikTok dalam HD?",
@@ -139,5 +132,27 @@
   "story-accordion-tab-header-2": "Bisakah saya download cerita TikTok, video, atau slideshow dari TikTok?",
   "story-accordion-tab-content-2": "Ya, Anda dapat mengunduh konten dan menyimpannya ke perangkat Anda: smartphone atau komputer. Yang Anda butuhkan hanyalah menempelkan tautan ke kolom input pada penghemat cerita TikTok kami dan memilih format file.",
   "story-accordion-tab-header-3": "Apakah saya perlu membayar untuk menggunakan TikTok story downloader?",
-  "story-accordion-tab-content-3": "TikTok Viewer kami gratis tidak peduli berapa banyak file yang Anda simpan. Cobalah jika Anda ingin melihat cerita atau slideshow dari TikTok atau mengunduhnya secara anonim."
+  "story-accordion-tab-content-3": "TikTok Viewer kami gratis tidak peduli berapa banyak file yang Anda simpan. Cobalah jika Anda ingin melihat cerita atau slideshow dari TikTok atau mengunduhnya secara anonim.",
+  "faq-header-text": "Pertanyaan yang sering diajukan",
+  "faq-accordion-tab-header-1": "Mengapa saya melihat kesalahan saat mencoba mengunduh?",
+  "faq-accordion-tab-content-1": "Ada beberapa alasan:",
+  "faq-accordion-tab-bold-content-1": "Video bersifat pribadi.",
+  "faq-accordion-tab-standard-content-1": "Maaf, kami tidak bisa menghadapinya.",
+  "faq-accordion-tab-bold-content-2": "Video tidak tersedia.",
+  "faq-accordion-tab-standard-content-2": "Kami sedang mempelajari kasus ini. Kami akan memperbaikinya jika memungkinkan.",
+  "faq-accordion-tab-bold-content-3": "Anda menempelkan jenis tautan yang salah.",
+  "faq-accordion-tab-standard-content-3": "Saat ini kami mendukung pengunduhan dari halaman yang berisi satu video. Jika Anda menempelkan tautan profil pengguna atau yang lainnya, Anda akan melihat kesalahan.",
+  "faq-accordion-tab-bold-content-4": "Ada yang salah di pihak kita.",
+  "faq-accordion-tab-standard-content-4": "Jika Anda yakin tautan Anda benar, coba unduh sekali lagi.",
+  "faq-accordion-tab-header-2": "Kualitas video rendah. Apakah ada cara untuk mengunduh di HD?",
+  "faq-accordion-tab-content-2": "Kami tidak mengubah resolusi atau parameter video lainnya. Kami tidak mengedit video yang Anda unduh. Kami hanya menyediakan tautan ke file asli yang terletak di server Tiktok.",
+  "faq-accordion-tab-br-content-2": "Pada dasarnya itu berarti bahwa kita tidak dapat membuat kualitas yang lebih baik karena file aslinya dalam kualitas buruk.",
+  "faq-accordion-tab-header-3": "Sepertinya IP saya dilarang. Apa yang harus saya lakukan?",
+  "faq-accordion-tab-content-3": "Ini bisa terjadi secara tidak sengaja. Silakan, hubungi kami di sstiktok.com [at] gmail.com dan berikan IP yang harus tidak dibuka.",
+  "faq-accordion-tab-header-4": "Apakah Anda memiliki aplikasi unduhan video?",
+  "faq-accordion-tab-content-4": "Tentu saja, Anda dapat mengunduhnya langsung dari halaman APK kami dan mengunduh video atau musik dari Tiktok tanpa masalah.",
+  "faq-accordion-tab-header-5": "Saya tidak dapat menginstal aplikasi, apa yang harus saya lakukan?",
+  "faq-accordion-tab-content-5": "Periksa Wi-Fi atau Internet Anda untuk melihat apakah ada koneksi, dan juga periksa apakah perangkat Anda memiliki ruang kosong yang cukup dan didukung oleh versi Android Anda.",
+  "faq-accordion-tab-header-6": "Bisakah Anda menambahkan fitur pengunduhan beberapa file?",
+  "faq-accordion-tab-content-6": "Tidak sekarang. Kami akan kembali ke pertanyaan ini nanti"
 }

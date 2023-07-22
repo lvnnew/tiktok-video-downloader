@@ -1,5 +1,5 @@
 {
-  "how-to-save": "Cách lưu video?",
+  "how-to-save": "Cách lưu TikTok video?",
   "download-tiktok-mp3": "Tải nhạc TikTok",
   "tiktok-downloader": "Tải video TikTok",
   "just-insert-a-link": "Chỉ cần chèn một liên kết",
@@ -20,7 +20,7 @@
   "find-a-tt-content": "- phát một video mà bạn muốn lưu vào thiết bị di động của mình trên ứng dụng TikTok",
   "copy-link": "Sao chép liên kết",
   "copy-link-content": "- chạm vào 'Chia sẻ' (nút mũi tên trên video mà bạn chọn), và chạm vào 'Sao chép liên kết'",
-  "download-tiktok": "Download TikTok",
+  "download-tiktok": "Tải xuống Tiktok",
   "download-tiktok-content": "- quay lại SSSTik.io TikTok và dán liên kết đến video TikTok vào trường nhắn tin trên trang đó và chạm vào nút 'Tải về'",
   "most-popular-content": "SSSTik.io download video TikTok là một trong những công cụ phổ biến nhất để lưu video TikTok no watermark. Không cần cài đặt bất kỳ ứng dụng nào để sử dụng dịch vụ của chúng tôi, tất cả những gì bạn cần là một trình duyệt và một liên kết TikTok hợp lệ để dán vào trường nhập liệu trên website tải video SSSTik.io TikTok và xóa logo từ TikTok.",
   "no-trademark": "Không logo trên video TikTok của bạn. Đây là một giải pháp hoàn hảo khi chỉnh sửa hậu kỳ và đăng video.",
@@ -46,25 +46,18 @@
   "video-on-ipad-4-content": "Nếu phương thức này không phù hợp với bạn, hãy đọc hướng dẫn cho trình lưu TikTok ở dưới đây.",
   "home-accordion-tab-header-1": "Tôi có cần trả tiền để tải video TikTok không logo hay không?",
   "home-accordion-tab-content-1": "Không, bạn không cần trả bất kỳ khoản tiền nào, bởi dịch vụ tải video TikTok của chúng tôi luôn miễn phí! Chúng tôi hỗ trợ mọi trình duyệt hiện đại chẳng hạn như Google Chrome, Mozilla Firefox, Safari, Microsoft Edge, v.v.",
-
   "home-accordion-tab-header-2": "Tôi có cần cài đặt các phần mở rộng để sử dụng TikTok downloader?",
   "home-accordion-tab-content-2": "Không. Để lưu và xóa logo TikTok trực tuyến, bạn chỉ cần một liên kết. Hãy dán liên kết này vào trường nhập liệu và chọn định dạng phù hợp để chuyển đổi. Trình xóa logo TikTok của chúng tôi sẽ thực hiện phần còn lại.",
-
   "home-accordion-tab-header-3": "Các video TikTok được lưu ở đâu sau khi tải về?",
   "home-accordion-tab-content-3": "Khi bạn lưu video TikTok không có logo, các tập tin thường sẽ được lưu vào vị trí mặc định của bạn. Trong cài đặt trình duyệt, bạn có thể thay đổi và chọn thủ công thư mục điểm đến cho các video TikTok đã tải về.",
-
   "home-accordion-tab-header-4": "Tôi có cần một tài khoản TikTok để download video TikTok?",
   "home-accordion-tab-content-4": "Không, bạn không cần một tài khoản TikTok. Bạn có thể download TikTok video khi bạn có liên kết đến nó, chỉ cần dán liên kết này vào trường tải về ở đầu trang và nhấn 'Tải về'. Dịch vụ tải TikTok của chúng tôi sẽ xóa logo TikTok và video này sẽ sẵn sàng được sử dụng chỉ sau vài giây.",
-
   "home-accordion-tab-header-5": "Liệu TikTok downloader của quý lưu video cá nhân?",
   "home-accordion-tab-content-5": "Trình lưu TikTok không logo của chúng tôi không thể truy cập nội dung của các tài khoản riêng tư và không thể lấy video từ đó. Bạn cần đảm bảo đó là tài khoản công khai để chúng tôi có thể lưu TikTok cho bạn.",
-
   "home-accordion-tab-header-6": "Làm thế nào để nhận liên kết tải video TikTok?",
   "home-accordion-tab-content-6": "Mở ứng dụng TikTok và Chọn video mà bạn muốn lưu. Nhấn 'Chia sẻ', sau đó 'Sao chép liên kết'. URL để tải clip TikTok không logo sẽ được lưu vào bộ nhớ tạm của bạn.",
-
   "home-accordion-tab-header-7": "Làm thế nào để lưu từ video tiktok trong MP4 trên iPhone (iOS)?",
   "home-accordion-tab-content-7": "Do chính sách bảo mật của Apple, bắt đầu từ iOS 12 trở xuống, bạn không thể lưu Tiktok mà không có hình mờ vào iPhone của mình. Bạn phải cập nhật iOS lên phiên bản mới nhất để có thể sử dụng Safari và khởi chạy quá trình tải xuống video Tiktok. Nếu bạn vẫn không thể lưu chúng, hãy làm theo các hướng dẫn ở trên.",
-
   "home-accordion-tab-header-8": "Tôi có thể sử dụng TikTok downloader của bạn trên điện thoại Android không?",
   "home-accordion-tab-content-8": "YCó, bạn có thể sử dụng SSSTik.io để lưu video TikTok không có hình mờ trên điện thoại Android. Dịch vụ của chúng tôi miễn phí 100%, rất nhanh và được cập nhật liên tục.",
   "home-accordion-tab-header-9": "Tôi có thể tải xuống video TikTok ở chế độ HD không?",
@@ -139,5 +132,27 @@
   "story-accordion-tab-header-2": "Tôi có thể tải xuống các câu chuyện, video hoặc trình chiếu từ hồ sơ TikTok không?",
   "story-accordion-tab-content-2": "Yes, you can download any content and save it to your device: smartphone or computer. All you need is to paste the link into the input field on our TikTok story downloader and select the file format.Có, bạn có thể tải nội dung xuống và lưu vào thiết bị của mình: điện thoại thông minh hoặc máy tính. Tất cả những gì bạn cần là dán liên kết vào trường nhập trên trình tiết kiệm câu chuyện TikTok của chúng tôi và chọn định dạng tệp.",
   "story-accordion-tab-header-3": "Tôi có cần trả tiền để sử dụng trình tải xuống câu chuyện TikTok không?",
-  "story-accordion-tab-content-3": "Trình xem TikTok của chúng tôi miễn phí cho dù bạn lưu bao nhiêu tệp. Hãy dùng thử nếu bạn muốn xem các câu chuyện hoặc trình chiếu từ TikTok hoặc tải chúng xuống một cách ẩn danh."
+  "story-accordion-tab-content-3": "Trình xem TikTok của chúng tôi miễn phí cho dù bạn lưu bao nhiêu tệp. Hãy dùng thử nếu bạn muốn xem các câu chuyện hoặc trình chiếu từ TikTok hoặc tải chúng xuống một cách ẩn danh.",
+  "faq-header-text": "Các câu hỏi thường gặp",
+  "faq-accordion-tab-header-1": "Tại sao tôi thấy lỗi khi cố gắng tải xuống?",
+  "faq-accordion-tab-content-1": "Có một số lý do:",
+  "faq-accordion-tab-bold-content-1": "Video là riêng tư.",
+  "faq-accordion-tab-standard-content-1": "Xin lỗi, chúng tôi không thể đối phó với nó.",
+  "faq-accordion-tab-bold-content-2": "Video không có sẵn.",
+  "faq-accordion-tab-standard-content-2": "Chúng tôi đang nghiên cứu trường hợp này. Chúng tôi sẽ sửa nó nếu có thể.",
+  "faq-accordion-tab-bold-content-3": "bạn dán sai loại liên kết.",
+  "faq-accordion-tab-standard-content-3": "Tại thời điểm này, chúng tôi hỗ trợ tải xuống từ các trang có chứa một video. Nếu bạn dán liên kết hồ sơ người dùng hoặc thứ gì đó khác, bạn sẽ thấy lỗi.",
+  "faq-accordion-tab-bold-content-4": "Có gì đó không ổn về phía chúng tôi.",
+  "faq-accordion-tab-standard-content-4": "Nếu bạn chắc chắn rằng liên kết của bạn là chính xác, hãy thử tải xuống một lần nữa.",
+  "faq-accordion-tab-header-2": "Chất lượng video thấp. Có cách nào để tải xuống ở HD không?",
+  "faq-accordion-tab-content-2": "Chúng tôi không thay đổi độ phân giải hoặc bất kỳ tham số nào khác của video. Chúng tôi không chỉnh sửa video mà bạn tải xuống. Chúng tôi chỉ cung cấp một liên kết đến tệp gốc được đặt trên các máy chủ Tiktok.",
+  "faq-accordion-tab-br-content-2": "Về cơ bản điều đó có nghĩa là chúng ta không thể tạo ra chất lượng tốt hơn vì tệp gốc có chất lượng kém.",
+  "faq-accordion-tab-header-3": "Có vẻ như IP của tôi đã bị cấm. Tôi nên làm gì?",
+  "faq-accordion-tab-content-3": "Điều này có thể xảy ra một cách tình cờ. Vui lòng liên hệ với chúng tôi tại sstiktok.com[at]gmail.com và cung cấp các IP cần được bỏ cấm.",
+  "faq-accordion-tab-header-4": "Bạn có ứng dụng tải xuống video không?",
+  "faq-accordion-tab-content-4": "Tất nhiên, bạn có thể tải xuống trực tiếp từ trang APK của chúng tôi và tải xuống video hoặc nhạc từ Tiktok mà không gặp vấn đề gì.",
+  "faq-accordion-tab-header-5": "Tôi không thể cài đặt ứng dụng, tôi nên làm gì?",
+  "faq-accordion-tab-content-5": "Kiểm tra Wi-Fi hoặc Internet của bạn để xem liệu có kết nối hay không, và cũng kiểm tra xem thiết bị của bạn có đủ không gian trống không và được hỗ trợ bởi phiên bản Android của bạn.",
+  "faq-accordion-tab-header-6": "Bạn có thể thêm một tính năng của nhiều tập tin tải xuống không?",
+  "faq-accordion-tab-content-6": "Không phải bây giờ. Chúng tôi sẽ quay lại câu hỏi này sau"
 }

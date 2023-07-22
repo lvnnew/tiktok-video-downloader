@@ -1,5 +1,5 @@
 {
-  "how-to-save": "Comment enregistrer vidéo?",
+  "how-to-save": "Comment enregistrer TikTok vidéo?",
   "download-tiktok-mp3": "Télécharger TikTok MP3",
   "tiktok-downloader": "Descargar TikTok sin marca de agua",
   "just-insert-a-link": "Coller le lien",
@@ -46,25 +46,18 @@
   "video-on-ipad-4-content": "Si cette méthode ne vous convient pas, lisez les instructions ci-dessous.",
   "home-accordion-tab-header-1": "Le telecharger video TikTok est-il gratuit? ",
   "home-accordion-tab-content-1": "Oui! Nous aimons aider les gens à download TikTok video gratuitement et pour soutenir nos téléchargeurs, nous y mettons des publicités.",
-
   "home-accordion-tab-header-2": "Dois-je installer une extension pour enregistrer les vidéos de TikTok?",
   "home-accordion-tab-content-2": "Pas. Pour télécharger video TikTok en ligne et supprimer le filigrane, vous avez juste besoin d'un lien. Collez-le dans le champ de saisie et sélectionnez le format approprié pour la conversion.",
-
   "home-accordion-tab-header-3": "Où les vidéos Tiktok sont-elles enregistrées après le téléchargement?",
   "home-accordion-tab-content-3": "Lorsque vous économisez à partir de Tiktok sans marque, les fichiers sont généralement enregistrés à votre emplacement par défaut. Dans les paramètres de votre navigateur, vous pouvez modifier et sélectionner manuellement le dossier de destination pour vos fichiers.",
-
   "home-accordion-tab-header-4": "Dois-je avoir un compte TikTok pour télécharger des vidéos?",
   "home-accordion-tab-content-4": "Non, vous n'avez pas besoin d'avoir un compte TikTok. Vous pouvez télécharger n'importe quelle vidéo lorsque vous avez un lien vers celle-ci, collez-la simplement dans le champ de téléchargement en haut de la page et cliquez sur 'Télécharger'. La vidéo sera prête à être téléchargée dans quelques secondes.",
-
   "home-accordion-tab-header-5": "Puis-je telecharger vidéo TikTok à partir de comptes personnels?",
   "home-accordion-tab-content-5": "Notre TikTok Downloader sans filigrane ne peut pas accéder au contenu des comptes privés et ne peut pas enregistrer de vidéos à partir de là. Vous devez vous assurer que le compte est public afin que nous puissions télécharger TikTok vidéo pour vous.",
-
   "home-accordion-tab-header-6": "Comment obtenir un lien pour les vidéos TikTok?",
   "home-accordion-tab-content-6": "Ouvrez l'application TikTok et choisissez la vidéo que vous souhaitez enregistrer. Cliquez sur «Partage» puis «Copier le lien». Votre URL de téléchargement vidéo TikTok est prête sur votre presse-papiers.",
-
   "home-accordion-tab-header-7": "Comment enregistrer à partir de la vidéo TikTok dans MP4 sur iPhone (iOS)?",
   "home-accordion-tab-content-7": "En raison de la politique de confidentialité d'Apple, à partir d'iOS 12 et moins, vous ne pouvez pas sauver TikTok sans filigrane sur votre iPhone. Vous devez mettre à jour iOS vers la dernière version pour pouvoir utiliser Safari et lancer le processus de téléchargement vidéo TikTok. Si vous ne pouvez toujours pas les enregistrer, suivez les instructions ci-dessus.",
-
   "home-accordion-tab-header-8": "Puis-je utiliser votre TikTok Downloader sur mon téléphone Android ?",
   "home-accordion-tab-content-8": "Oui, vous pouvez utiliser SSSTik.io pour enregistrer vidéos TikTok sans filigrane sur un téléphone Android. Notre service est 100% gratuit, très rapide et constamment mis à jour.",
   "home-accordion-tab-header-9": "Puis-je télécharger TikTok vidéos en HD ?",
@@ -139,5 +132,27 @@
   "story-accordion-tab-header-2": "Puis-je télécharger histoires, vidéos ou slideshow à partir du profil TikTok?",
   "story-accordion-tab-content-2": "Oui, vous pouvez télécharger du contenu et l'enregistrer sur votre appareil : smartphone ou ordinateur. Tout ce dont vous avez besoin est de coller le lien dans le champ de saisie de notre TT story viewer et de sélectionner le format de fichier.",
   "story-accordion-tab-header-3": "Dois-je payer pour utiliser le TikTok stories downloader?",
-  "story-accordion-tab-content-3": "Notre TikTok Viewer est gratuit quel que soit le nombre de fichiers que vous enregistrez. Essayez-le si vous souhaitez afficher des histoires ou des diaporamas de TikTok ou les télécharger de manière anonyme."
+  "story-accordion-tab-content-3": "Notre TikTok Viewer est gratuit quel que soit le nombre de fichiers que vous enregistrez. Essayez-le si vous souhaitez afficher des histoires ou des diaporamas de TikTok ou les télécharger de manière anonyme.",
+  "faq-header-text": "Questions fréquemment posées",
+  "faq-accordion-tab-header-1": "Pourquoi est-ce que je vois une erreur en essayant de télécharger?",
+  "faq-accordion-tab-content-1": "Il existe plusieurs raisons:",
+  "faq-accordion-tab-bold-content-1": "La vidéo est privée.",
+  "faq-accordion-tab-standard-content-1": "Désolé, nous ne pouvons pas y faire face.",
+  "faq-accordion-tab-bold-content-2": "La vidéo n'est pas disponible.",
+  "faq-accordion-tab-standard-content-2": "Nous étudions ce cas. Nous allons le réparer si possible.",
+  "faq-accordion-tab-bold-content-3": "Vous collez un mauvais type de liens.",
+  "faq-accordion-tab-standard-content-3": "En ce moment, nous prenons en charge le téléchargement à partir de pages contenant une seule vidéo. Si vous collez un lien de profil utilisateur ou autre chose, vous verrez une erreur.",
+  "faq-accordion-tab-bold-content-4": "Quelque chose ne va pas de notre côté.",
+  "faq-accordion-tab-standard-content-4": "Si vous êtes sûr que votre lien est correct, essayez de télécharger une fois de plus.",
+  "faq-accordion-tab-header-2": "La qualité vidéo est faible. Existe-t-il un moyen de télécharger en HD?",
+  "faq-accordion-tab-content-2": "Nous ne modifions pas la résolution ou tout autre paramètre de la vidéo. Nous ne modifions pas les vidéos que vous téléchargez. Nous ne fournissons qu'un lien vers le fichier d'origine qui se trouve sur les serveurs Tiktok.",
+  "faq-accordion-tab-br-content-2": "Fondamentalement, cela signifie que nous ne pouvons pas faire de meilleure qualité car le fichier d'origine est en mauvaise qualité.",
+  "faq-accordion-tab-header-3": "On dirait que mon IP a été banni. Que dois-je faire?",
+  "faq-accordion-tab-content-3": "Cela pourrait se produire accidentellement. S'il vous plaît, contactez-nous sur sstiktok.com [à] gmail.com et fournissez les IP qui devraient être non bannies.",
+  "faq-accordion-tab-header-4": "Avez-vous une application de téléchargement vidéo?",
+  "faq-accordion-tab-content-4": "Bien sûr, vous pouvez le télécharger directement à partir de notre page APK et télécharger des vidéos ou de la musique de Tiktok sans aucun problème.",
+  "faq-accordion-tab-header-5": "Je ne peux pas installer l'application, que dois-je faire?",
+  "faq-accordion-tab-content-5": "Vérifiez votre Wi-Fi ou Internet pour voir s'il y a une connexion, et vérifiez également si votre appareil a suffisamment d'espace libre et est pris en charge par votre version d'Android.",
+  "faq-accordion-tab-header-6": "Pouvez-vous ajouter une fonctionnalité de téléchargement de fichiers multiples?",
+  "faq-accordion-tab-content-6": "Pas maintenant. Nous reviendrons à cette question plus tard"
 }
