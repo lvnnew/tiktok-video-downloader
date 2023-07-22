@@ -4,6 +4,9 @@ import { DownloadedData } from '../types/downloader.type';
 import { useParams } from 'next/navigation';
 import { useTranslation } from '@/app/i18n/client';
 
+
+let timer: any|undefined = undefined;
+
 export function useVideo() {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState<any>();
@@ -29,6 +32,12 @@ export function useVideo() {
         audio: { ...audio },
       };
 
+      if(timer) clearTimeout(timer);
+      timer = setTimeout(() => {
+        timer = undefined;
+        setData(undefined)
+      }, 15 * 1000);
+
       setData(newData);
     } catch (error) {
       // @ts-ignore
@@ -37,6 +46,8 @@ export function useVideo() {
       } else {
         setError(error);
       }
+      setData(undefined);
+      if(timer) clearTimeout(timer);
     }
 
     setLoading(false);
