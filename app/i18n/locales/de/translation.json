@@ -154,5 +154,7 @@
   "faq-accordion-tab-header-5": "Ich kann die App nicht installieren, was soll ich tun?",
   "faq-accordion-tab-content-5": "Überprüfen Sie Ihr Wi-Fi oder Internet, um festzustellen, ob eine Verbindung besteht, und prüfen Sie außerdem, ob Ihr Gerät über genügend freien Speicherplatz verfügt und von Ihrer Version von Android unterstützt wird.",
   "faq-accordion-tab-header-6": "Können Sie eine Funktion mehrerer Dateien herunterladen?",
-  "faq-accordion-tab-content-6": "Nicht jetzt. Wir werden später zu dieser Frage zurückkehren"
+  "faq-accordion-tab-content-6": "Nicht jetzt. Wir werden später zu dieser Frage zurückkehren",
+  "invalid-link": "Ungültiger Link.",
+  "link-followed-has-expired": "Link befolgt ist abgelaufen."
 }

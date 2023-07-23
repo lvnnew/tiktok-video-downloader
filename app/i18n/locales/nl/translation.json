@@ -154,5 +154,7 @@
   "faq-accordion-tab-header-5": "Ik kan de app niet installeren, wat moet ik doen?",
   "faq-accordion-tab-content-5": "Controleer uw wifi of internet om te zien of er een verbinding is en controleer ook of uw apparaat voldoende vrije ruimte heeft en wordt ondersteund door uw versie van Android.",
   "faq-accordion-tab-header-6": "Kunt u een functie toevoegen van het downloaden van meerdere bestanden?",
-  "faq-accordion-tab-content-6": "Niet nu. We zullen later teruggaan naar deze vraag"
+  "faq-accordion-tab-content-6": "Niet nu. We zullen later teruggaan naar deze vraag",
+  "invalid-link": "Ongeldige link.",
+  "link-followed-has-expired": "Gevolgde link is verlopen."
 }

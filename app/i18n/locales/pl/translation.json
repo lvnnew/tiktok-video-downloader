@@ -154,5 +154,7 @@
   "faq-accordion-tab-header-5": "Nie mogę zainstalować aplikacji, co powinienem zrobić?",
   "faq-accordion-tab-content-5": "Sprawdź Wi-Fi lub Internet, aby sprawdzić, czy istnieje połączenie, a także sprawdź, czy urządzenie ma wystarczającą ilość wolnego miejsca i jest obsługiwane przez twoją wersję Androida.",
   "faq-accordion-tab-header-6": "Czy możesz dodać funkcję pobierania wielu plików?",
-  "faq-accordion-tab-content-6": "Nie teraz. Wrócimy do tego pytania później"
+  "faq-accordion-tab-content-6": "Nie teraz. Wrócimy do tego pytania później",
+  "invalid-link": "Niepoprawny link.",
+  "link-followed-has-expired": "Link wygasł."
 }

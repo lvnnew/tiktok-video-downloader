@@ -154,5 +154,7 @@
   "faq-accordion-tab-header-5": "アプリをインストールできませんが、どうすればよいですか？",
   "faq-accordion-tab-content-5": "Wi-Fiまたはインターネットを確認して接続があるかどうかを確認し、デバイスに十分な空きスペースがあり、Androidバージョンでサポートされているかどうかを確認します。",
   "faq-accordion-tab-header-6": "複数のファイルのダウンロードの機能を追加できますか？",
-  "faq-accordion-tab-content-6": "今はやめろ。 後でこの質問に戻ります"
+  "faq-accordion-tab-content-6": "今はやめろ。 後でこの質問に戻ります",
+  "invalid-link": "無効なリンク。",
+  "link-followed-has-expired": "フォローしたリンクの有効期限が切れています。"
 }

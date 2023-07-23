@@ -154,5 +154,7 @@
   "faq-accordion-tab-header-5": "Saya tidak dapat menginstal aplikasi, apa yang harus saya lakukan?",
   "faq-accordion-tab-content-5": "Periksa Wi-Fi atau Internet Anda untuk melihat apakah ada koneksi, dan juga periksa apakah perangkat Anda memiliki ruang kosong yang cukup dan didukung oleh versi Android Anda.",
   "faq-accordion-tab-header-6": "Bisakah Anda menambahkan fitur pengunduhan beberapa file?",
-  "faq-accordion-tab-content-6": "Tidak sekarang. Kami akan kembali ke pertanyaan ini nanti"
+  "faq-accordion-tab-content-6": "Tidak sekarang. Kami akan kembali ke pertanyaan ini nanti",
+  "invalid-link": "Tautan tidak valid.",
+  "link-followed-has-expired": "Tautan diikuti telah kedaluwarsa."
 }

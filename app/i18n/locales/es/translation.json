@@ -154,5 +154,7 @@
   "faq-accordion-tab-header-5": "No puedo instalar la aplicación, ¿qué debo hacer?",
   "faq-accordion-tab-content-5": "Verifique su Wi-Fi o Internet para ver si hay una conexión, y también verifique si su dispositivo tiene suficiente espacio libre y es compatible con su versión de Android.",
   "faq-accordion-tab-header-6": "¿Puede agregar una característica de la descarga de múltiples archivos?",
-  "faq-accordion-tab-content-6": "Ahora no. Volveremos a esta pregunta más tarde"
+  "faq-accordion-tab-content-6": "Ahora no. Volveremos a esta pregunta más tarde",
+  "invalid-link": "Enlace no válido.",
+  "link-followed-has-expired": "El enlace ha caducado."
 }

@@ -154,5 +154,7 @@
   "faq-accordion-tab-header-5": "Saya tidak dapat memasang aplikasinya, apa yang harus saya lakukan?",
   "faq-accordion-tab-content-5": "Semak Wi-Fi atau Internet anda untuk melihat sama ada terdapat sambungan, dan juga periksa sama ada peranti anda mempunyai ruang kosong yang cukup dan disokong oleh versi Android anda.",
   "faq-accordion-tab-header-6": "Bolehkah anda menambah ciri pelbagai fail yang memuat turun?",
-  "faq-accordion-tab-content-6": "Bukan sekarang. Kami akan kembali kepada soalan ini kemudian"
+  "faq-accordion-tab-content-6": "Bukan sekarang. Kami akan kembali kepada soalan ini kemudian",
+  "invalid-link": "Pautan tidak sah.",
+  "link-followed-has-expired": "Pautan diikuti telah tamat tempoh."
 }

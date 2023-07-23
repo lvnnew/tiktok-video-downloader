@@ -154,5 +154,7 @@
   "faq-accordion-tab-header-5": "Non riesco a installare l'app, cosa dovrei fare?",
   "faq-accordion-tab-content-5": "Controlla il tuo Wi-Fi o Internet per vedere se c'è una connessione e controlla anche se il tuo dispositivo ha abbastanza spazio libero ed è supportato dalla tua versione di Android.",
   "faq-accordion-tab-header-6": "Puoi aggiungere una funzione di download di più file?",
-  "faq-accordion-tab-content-6": "Non adesso. Torneremo a questa domanda più tardi"
+  "faq-accordion-tab-content-6": "Non adesso. Torneremo a questa domanda più tardi",
+  "invalid-link": "Collegamento invalido.",
+  "link-followed-has-expired": "Link seguito è scaduto."
 }

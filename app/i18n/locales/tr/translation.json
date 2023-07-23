@@ -154,5 +154,7 @@
   "faq-accordion-tab-header-5": "Uygulamayı yükleyemiyorum, ne yapmalıyım?",
   "faq-accordion-tab-content-5": "Bir bağlantı olup olmadığını görmek için Wi-Fi veya İnternetinizi kontrol edin ve ayrıca cihazınızın yeterli boş alana sahip olup olmadığını ve Android sürümünüz tarafından desteklendiğini kontrol edin.",
   "faq-accordion-tab-header-6": "İndirme birden çok dosyanın bir özelliğini ekleyebilir misiniz?",
-  "faq-accordion-tab-content-6": "Şimdi değil. Bu soruya daha sonra geri döneceğiz"
+  "faq-accordion-tab-content-6": "Şimdi değil. Bu soruya daha sonra geri döneceğiz",
+  "invalid-link": "Geçersiz link.",
+  "link-followed-has-expired": "Edilen bağlantının süresi doldu."
 }

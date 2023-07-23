@@ -154,5 +154,7 @@
   "faq-accordion-tab-header-5": "Tôi không thể cài đặt ứng dụng, tôi nên làm gì?",
   "faq-accordion-tab-content-5": "Kiểm tra Wi-Fi hoặc Internet của bạn để xem liệu có kết nối hay không, và cũng kiểm tra xem thiết bị của bạn có đủ không gian trống không và được hỗ trợ bởi phiên bản Android của bạn.",
   "faq-accordion-tab-header-6": "Bạn có thể thêm một tính năng của nhiều tập tin tải xuống không?",
-  "faq-accordion-tab-content-6": "Không phải bây giờ. Chúng tôi sẽ quay lại câu hỏi này sau"
+  "faq-accordion-tab-content-6": "Không phải bây giờ. Chúng tôi sẽ quay lại câu hỏi này sau",
+  "invalid-link": "Liên kết không hợp lệ.",
+  "link-followed-has-expired": "Liên kết được theo đã hết hạn"
 }
