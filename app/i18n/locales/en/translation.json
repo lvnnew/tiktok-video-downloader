@@ -154,5 +154,7 @@
   "faq-accordion-tab-header-5": "I can't install the app, what should I do?",
   "faq-accordion-tab-content-5": "Check your Wi-Fi or Internet to see if there is a connection, and also check if your device has enough free space and is supported by your version of Android.",
   "faq-accordion-tab-header-6": "Can you add a feature of multiple files downloading?",
-  "faq-accordion-tab-content-6": "Not now. We will get back to this question later"
+  "faq-accordion-tab-content-6": "Not now. We will get back to this question later",
+  "invalid-link": "Invalid link.",
+  "link-followed-has-expired": "Link followed has expired."
 }
