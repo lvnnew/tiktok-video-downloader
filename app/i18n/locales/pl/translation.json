@@ -1,5 +1,5 @@
 {
-  "how-to-save": "Jak aby pobrać wideo?",
+  "how-to-save": "Jak zapisać wideo TikTok?",
   "download-tiktok-mp3": "Pobierz TikTok MP3",
   "tiktok-downloader": "Pobierz TikTok video bez znaku wodnego",
   "just-insert-a-link": "Wystarczy wstawić link",
@@ -46,25 +46,18 @@
   "video-on-ipad-4-content": "Jeśli ta metoda Ci nie odpowiada, przeczytaj poniższe instrukcje.",
   "home-accordion-tab-header-1": "Czy muszę płacić za usługi pobierania TikTok MP4?",
   "home-accordion-tab-content-1": "Nie, nie musisz za nic płacić, ponieważ nasze pobieranie filmów z TikToka bez znaku wodnego jest zawsze bezpłatne! Obsługujemy wszystkie nowoczesne przeglądarki, takie jak Google Chrome, Mozilla Firefox, Safari, Microsoft Edge itp.",
-
   "home-accordion-tab-header-2": "Czy muszę instalować rozszerzenia, aby zapisywać filmy z TikTok?",
   "home-accordion-tab-content-2": "Nie. Aby zapisać i usunąć znak wodny z TikTok online, potrzebujesz tylko linku. Wklej go do pola wejściowego i wybierz odpowiedni format do konwersji.",
-
   "home-accordion-tab-header-3": "Gdzie są zapisywane filmy TikTok po pobraniu?",
   "home-accordion-tab-content-3": "Gdy zapisujesz z TikTok bez znaku towarowego, pliki są zwykle zapisywane w domyślnej lokalizacji. W ustawieniach przeglądarki możesz zmienić i ręcznie wybrać folder docelowy dla pobranych filmów TikTok.",
-
   "home-accordion-tab-header-4": "Czy muszę mieć konto TikTok, aby pobierać filmy?",
   "home-accordion-tab-content-4": "Nie, nie musisz mieć konta TikTok. Możesz pobrać dowolny film, gdy masz do niego link, po prostu wklej go w polu pobierania u góry strony i kliknij Pobierz TikTok bez znaku wodnego. Nasza usługa pobierania TikTok usunie znak wodny z TikTok, a wideo będzie gotowe do pobrania za kilka sekund.",
-
   "home-accordion-tab-header-5": "Czy Twój pobrań TikTok może zapisać filmy z kont osobistych?",
   "home-accordion-tab-content-5": "Nasz TikTok Saver nie może uzyskać dostępu do zawartości prywatnych kont i nie może zapisać stamtąd żadnych filmów z znakiem wodnym. Musisz upewnić się, że konto jest publiczne, abyśmy mogli zaoszczędzić od TikTok dla Ciebie.",
-
   "home-accordion-tab-header-6": "Jak uzyskać link do filmów TikTok?",
   "home-accordion-tab-content-6": "Otwórz aplikację TikTok i wybierz wideo, które chcesz zapisać. Kliknij „Udostępnij”, a następnie „Kopiuj link”. Twój adres URL do pobrania wideo TikTok jest gotowy na schowku.",
-
   "home-accordion-tab-header-7": "Jak zapisać w TikTok Video w MP4 na iPhonie (iOS)?",
   "home-accordion-tab-content-7": "Ze względu na politykę prywatności Apple, zaczynając od iOS 12 i poniżej, nie możesz zapisać TikTok bez znaku wodnego na iPhonie. Musisz zaktualizować iOS do najnowszej wersji, aby móc korzystać z Safari i uruchomić proces pobierania wideo TikTok. Jeśli nadal nie możesz ich zapisać, postępuj zgodnie z powyższymi instrukcjami.",
-
   "home-accordion-tab-header-8": "Czy mogę korzystać z TikTok Downloader na moim telefonie?",
   "home-accordion-tab-content-8": "Tak, możesz użyć SSSTik.io do zapisywania filmów TikTok bez znaku wodnego na telefonie z Androidem. Nasz serwis jest w 100% darmowy, bardzo szybki i stale aktualizowany.",
   "home-accordion-tab-header-9": "Czy mogę pobierać filmy TikTok w jakości HD?",
@@ -72,7 +65,7 @@
   "contacts": "Łączność",
   "privacy-policy": " Polityka prywatności",
   "stories": "Historie",
-  "faq": "FAQ",
+  "faq": "Często zadawane pytania",
   "footer-text": "Nie jesteśmy powiązani z TikTok, Douyinem lub Bytedance.",
   "tow-to-save-video-without-watermark": "Jak zapisać film z TikTok bez znaku wodnego",
   "fastest": "Najszybszym i najłatwiejszym sposobem na zapisanie filmów jest skopiowanie linku i wklejenie go na głównej stronie naszego serwisu SSSTik.io",
@@ -139,5 +132,29 @@
   "story-accordion-tab-header-2": "Czy mogę pobierać historie, filmy lub pokazy slajdów z profilu TikTok?",
   "story-accordion-tab-content-2": "Tak, możesz pobrać dowolną zawartość i zapisać ją na swoim urządzeniu: smartfonie lub komputerze. Wszystko, czego potrzebujesz, to wkleić link do pola wejściowego w naszym wygaszaczu historii TikTok i wybrać format pliku.",
   "story-accordion-tab-header-3": "Czy muszę płacić, aby korzystać z TikTok story downloader?",
-  "story-accordion-tab-content-3": "Nasza przeglądarka TikTok Viewer jest bezpłatna bez względu na liczbę zapisanych plików. Wypróbuj, jeśli chcesz przeglądać historie lub pokazy slajdów z TikTok lub pobierać je anonimowo."
+  "story-accordion-tab-content-3": "Nasza przeglądarka TikTok Viewer jest bezpłatna bez względu na liczbę zapisanych plików. Wypróbuj, jeśli chcesz przeglądać historie lub pokazy slajdów z TikTok lub pobierać je anonimowo.",
+  "faq-header-text": "Często Zadawane Pytania",
+  "faq-accordion-tab-header-1": "Dlaczego widzę błąd podczas próby pobrania?",
+  "faq-accordion-tab-content-1": "Jest kilka powodów:",
+  "faq-accordion-tab-bold-content-1": "Wideo jest prywatne.",
+  "faq-accordion-tab-standard-content-1": "Przepraszam, nie możemy sobie z tym poradzić.",
+  "faq-accordion-tab-bold-content-2": "Wideo jest niedostępne.",
+  "faq-accordion-tab-standard-content-2": "Studiujemy ten przypadek. Jeśli to możliwe, naprawimy to.",
+  "faq-accordion-tab-bold-content-3": "Wklejesz niewłaściwy typ linków.",
+  "faq-accordion-tab-standard-content-3": "W tej chwili obsługujemy pobieranie ze stron, które zawierają jeden film. Jeśli wklejesz link profilu użytkownika lub coś innego, zobaczysz błąd.",
+  "faq-accordion-tab-bold-content-4": "Coś jest nie tak po naszej stronie.",
+  "faq-accordion-tab-standard-content-4": "Jeśli masz pewność, że Twój link jest poprawny, spróbuj pobrać jeszcze raz.",
+  "faq-accordion-tab-header-2": "Jakość wideo jest niska. Czy jest jakiś sposób pobrania w HD?",
+  "faq-accordion-tab-content-2": "Nie zmieniamy rozdzielczości ani żadnych innych parametrów wideo. Nie edytujemy filmów, które pobierasz. Podajemy tylko link do oryginalnego pliku, który znajduje się na serwerach Tiktok.",
+  "faq-accordion-tab-br-content-2": "Zasadniczo oznacza to, że nie możemy osiągnąć lepszej jakości, ponieważ oryginalny plik jest w złej jakości.",
+  "faq-accordion-tab-header-3": "Wygląda na to, że mój adres IP został zakazany. Co powinienem zrobić?",
+  "faq-accordion-tab-content-3": "Może się to zdarzyć przypadkowo. Skontaktuj się z nami pod adresem sstiktok.com[at]gmail.com i podaj adresy IP, które powinny zostać odblokowane.",
+  "faq-accordion-tab-header-4": "Czy masz aplikację do pobierania wideo?",
+  "faq-accordion-tab-content-4": "Oczywiście możesz pobrać go bezpośrednio z naszej strony APK i bez problemów pobrać filmy lub muzykę z tiktok.",
+  "faq-accordion-tab-header-5": "Nie mogę zainstalować aplikacji, co powinienem zrobić?",
+  "faq-accordion-tab-content-5": "Sprawdź Wi-Fi lub Internet, aby sprawdzić, czy istnieje połączenie, a także sprawdź, czy urządzenie ma wystarczającą ilość wolnego miejsca i jest obsługiwane przez twoją wersję Androida.",
+  "faq-accordion-tab-header-6": "Czy możesz dodać funkcję pobierania wielu plików?",
+  "faq-accordion-tab-content-6": "Nie teraz. Wrócimy do tego pytania później",
+  "invalid-link": "Niepoprawny link.",
+  "link-followed-has-expired": "Link wygasł."
 }

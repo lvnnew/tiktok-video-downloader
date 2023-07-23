@@ -1,5 +1,5 @@
 {
-  "how-to-save": "Como baixar?",
+  "how-to-save": "Como salvar o vídeo do TikTok?",
   "download-tiktok-mp3": "Baixar TikTok MP3",
   "tiktok-downloader": "Baixar video TikTok",
   "just-insert-a-link": "Cole o link",
@@ -46,25 +46,18 @@
   "video-on-ipad-4-content": "Se este método não for adequado, leia as instruções para o Tiktok Nenhuma economia de marca d'água abaixo.",
   "home-accordion-tab-header-1": "Tenho que pagar pelos serviços de baixar video TikTok MP4?",
   "home-accordion-tab-content-1": "Não, você não precisa pagar nada, porque nosso TikTok video download por link é sempre gratuito! Suportamos todos os navegadores modernos, como Google Chrome, Mozilla Firefox, Safari, Microsoft Edge e etc.",
-
   "home-accordion-tab-header-2": "Preciso instalar extensões para baixar vídeo do TikTok marca d'água?",
   "home-accordion-tab-content-2": "Não. Para baixar TikTok e remover a marca d'água do TikTok online, você só precisa de um link. Cole-o no campo de entrada e selecione o formato apropriado para conversão.",
-
   "home-accordion-tab-header-3": "Onde você armazena vídeos TikTok?",
   "home-accordion-tab-content-3": "Quando você salvar video do TikTok pelo link em MP4, o vídeo é salvo na pasta de download que você definiu como padrão. Seu navegador geralmente define essa pasta para você, mas você pode alterar as configurações do navegador manualmente. Se você quiser tirar marca d'água TikTok gratis, basta colar a URL no campo de entrada e clicar no botão 'Baixar vídeo do TikTok marca d'água'.",
-
   "home-accordion-tab-header-4": "Preciso ter uma conta TikTok para baixar o vídeo tiktok?",
   "home-accordion-tab-content-4": "Não, você não precisa ter uma conta TikTok. Você pode iniciar o download do Tiktok No Watermark Process Quando tiver um link para ele, basta colá -lo no campo de entrada na parte superior da página e clicar em 'Download'. Nosso serviço de download do Tiktok removerá a marca d'água do Tiktok e o vídeo estará pronto para uso em alguns segundos.",
-
   "home-accordion-tab-header-5": "Seu Tiktok Downloader pode salvar vídeos de contas pessoais?",
   "home-accordion-tab-content-5": "Nosso economizador de tiktok não pode acessar o conteúdo de contas privadas e não pode salvar os vídeos do Tiktok No Watermark a partir daí. Você deve garantir que a conta seja pública para salvarmos do Tiktok para você.",
-
   "home-accordion-tab-header-6": "Como obter o link para vídeos Tiktok?",
   "home-accordion-tab-content-6": "Abra o aplicativo TikTok e escolha o vídeo que você deseja salvar. Clique em 'Compartilhar' e depois 'copiar link'. Seu URL do download de vídeo Tiktok está pronto na sua área de transferência.",
-
   "home-accordion-tab-header-7": "Como download video TikTok online no iPhone (iOS)?",
   "home-accordion-tab-content-7": "Devido à política de privacidade da Apple, a partir do iOS 12 e inferior, você não pode salvar o TikTok sem marca d'água no seu iPhone. Você deve atualizar o iOS para a versão mais recente para poder usar o Safari e iniciar o processo de TikTok vídeo download ou tirar marca d'água do TikTok online. Se você ainda não conseguir salvá-los, siga as instruções acima.",
-
   "home-accordion-tab-header-8": "Posso usar seu TikTok downloader no telefone Android?",
   "home-accordion-tab-content-8": "Sim, você pode usar o SSSTik.io site para tirar marca d'água do TikTok no telefone Android. Nosso serviço é 100% gratuito, muito rápido e constantemente atualizado.",
   "home-accordion-tab-header-9": "Posso baixar video do TikTok em HD?",
@@ -139,5 +132,29 @@
   "story-accordion-tab-header-2": "Posso baixar histórias, vídeos ou slideshow do perfil TikTok?",
   "story-accordion-tab-content-2": "Sim, você pode baixar qualquer conteúdo e salvá-lo em seu dispositivo: smartphone ou computador. Tudo o que você precisa é colar o link no campo de entrada em nosso protetor de histórias TikTok e selecionar o formato do arquivo.",
   "story-accordion-tab-header-3": "Preciso pagar para usar o TikTok story downloader?",
-  "story-accordion-tab-content-3": "Nosso TikTok Viewer é gratuito, não importa quantos arquivos você salve. Experimente se quiser ver histórias ou apresentações de slides do TikTok ou baixá-los anonimamente."
+  "story-accordion-tab-content-3": "Nosso TikTok Viewer é gratuito, não importa quantos arquivos você salve. Experimente se quiser ver histórias ou apresentações de slides do TikTok ou baixá-los anonimamente.",
+  "faq-header-text": "perguntas frequentes",
+  "faq-accordion-tab-header-1": "Por que vejo erro ao tentar baixar?",
+  "faq-accordion-tab-content-1": "Existem várias razões:",
+  "faq-accordion-tab-bold-content-1": "O vídeo é privado.",
+  "faq-accordion-tab-standard-content-1": "Desculpe, não podemos lidar com isso.",
+  "faq-accordion-tab-bold-content-2": "O vídeo não está disponível.",
+  "faq-accordion-tab-standard-content-2": "Estamos estudando este caso. Vamos consertar, se possível.",
+  "faq-accordion-tab-bold-content-3": "Você cola o tipo errado de links.",
+  "faq-accordion-tab-standard-content-3": "Neste momento, apoiamos o download de páginas que contêm um único vídeo. Se você colar um link de perfil de usuário ou outra coisa, verá o erro.",
+  "faq-accordion-tab-bold-content-4": "Algo está errado ao nosso lado.",
+  "faq-accordion-tab-standard-content-4": "Se você tem certeza de que seu link está correto, tente baixar mais uma vez.",
+  "faq-accordion-tab-header-2": "A qualidade do vídeo é baixa. Existe alguma maneira de baixar em HD?",
+  "faq-accordion-tab-content-2": "Não alteramos a resolução ou quaisquer outros parâmetros do vídeo. Não editamos vídeos que você baixar. Fornecemos apenas um link para o arquivo original localizado nos servidores Tiktok.",
+  "faq-accordion-tab-br-content-2": "Basicamente, isso significa que não podemos melhorar a qualidade, porque o arquivo original está em baixa qualidade.",
+  "faq-accordion-tab-header-3": "Parece que meu IP foi banido. O que devo fazer?",
+  "faq-accordion-tab-content-3": "Isso pode acontecer acidentalmente. Por favor, entre em contato conosco em sstiktok.com[at]gmail.com e forneça os IPs que devem ser desbanidos.",
+  "faq-accordion-tab-header-4": "Você tem um aplicativo de download de vídeo?",
+  "faq-accordion-tab-content-4": "Obviamente, você pode baixá -lo diretamente na nossa página APK e baixar vídeos ou músicas do Tiktok sem problemas.",
+  "faq-accordion-tab-header-5": "Não consigo instalar o aplicativo, o que devo fazer?",
+  "faq-accordion-tab-content-5": "Verifique seu Wi-Fi ou Internet para ver se há uma conexão e também verifique se o seu dispositivo possui espaço livre suficiente e é suportado pela sua versão do Android.",
+  "faq-accordion-tab-header-6": "Você pode adicionar um recurso de vários arquivos do download?",
+  "faq-accordion-tab-content-6": "Agora não. Voltaremos a esta pergunta mais tarde",
+  "invalid-link": "Link inválido.",
+  "link-followed-has-expired": "Link seguido expirou."
 }

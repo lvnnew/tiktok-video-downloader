@@ -3,20 +3,19 @@ import { DownloaderService } from '../services/downloader.service';
 import { DownloadedData } from '../types/downloader.type';
 import { useParams } from 'next/navigation';
 import { useTranslation } from '@/app/i18n/client';
-
+import {toast} from 'react-toastify';
 
 let timer: any|undefined = undefined;
 
 export function useVideo() {
   const [loading, setLoading] = useState(false);
-  const [error, setError] = useState<any>();
   const [data, setData] = useState<DownloadedData>();
 
   const params = useParams();
 
   const { t } = useTranslation(params.lng);
 
-  const video = async (url: string) => {
+  const loadVideo = async (url: string) => {
     setLoading(true);
 
     try {
@@ -36,16 +35,14 @@ export function useVideo() {
       timer = setTimeout(() => {
         timer = undefined;
         setData(undefined)
+        toast.warning(t('link-followed-has-expired'));
       }, 15 * 1000);
 
       setData(newData);
     } catch (error) {
       // @ts-ignore
-      if (error?.response?.data?.status === 'error') {
-        setError(t('video-not-found'));
-      } else {
-        setError(error);
-      }
+      const msg = error?.response?.data?.status === 'error' ? t('video-not-found') : error?.response?.data?.status;
+      toast.error(msg);
       setData(undefined);
       if(timer) clearTimeout(timer);
     }
@@ -53,5 +50,5 @@ export function useVideo() {
     setLoading(false);
   };
 
-  return { loading, error, video, data };
+  return { loading, loadVideo, data };
 }

@@ -46,25 +46,18 @@
   "video-on-ipad-4-content": "Tiktok indir ücretsiz logosuz istiyorsanız, aşağıdaki talimatları okuyun.",
   "home-accordion-tab-header-1": "Tiktok videosunu indirmek için ödeme yapmam gerekiyor mu?",
   "home-accordion-tab-content-1": "Hayır, hiçbir şey için ödeme yapmak zorunda değilsiniz, çünkü Tiktok indirme hizmetimiz her zaman ücretsizdir! Google Chrome, Mozilla Firefox, Safari, Microsoft Edge vb. Gibi tüm modern tarayıcıları destekliyoruz.",
-
   "home-accordion-tab-header-2": "TikTok downloader ücretsiz olarak nasıl kullanılır?",
   "home-accordion-tab-content-2": "TikTok'tan çevrimiçi video indiricimizi MP4 olarak kullanmak için ek uygulamalar yüklemeniz gerekmez. Bağlantıyı giriş alanına yapıştırın ve en uygun indirme biçimini seçin.",
-
   "home-accordion-tab-header-3": "Tiktok videoları indirdikten sonra nerede kaydediliyor?",
   "home-accordion-tab-content-3": "Tick markası olmadan Tiktok'tan tasarruf ettiğinizde, dosyalar genellikle varsayılan konumunuza kaydedilir. Tarayıcı ayarlarınızda, dosyalarınız için hedef klasörü değiştirebilir ve manuel olarak seçebilirsiniz.",
-
   "home-accordion-tab-header-4": "Videoları indirmek için bir TikTok hesabımın olması gerekir mi?",
   "home-accordion-tab-content-4": "Hayır, bir TikTok hesabınızın olması gerekmez. Herhangi bir videoyu bir bağlantınız olduğunda indirebilirsiniz, sadece sayfanın üst kısmındaki indirme alanına yapıştırın ve 'İndir' e tıklayın. TikTok indirme hizmetimiz, TikTok'tan filigranı kaldıracak ve video birkaç saniye içinde indirilmeye hazır olacaktır.",
-
   "home-accordion-tab-header-5": "Kişisel hesaplardan içerik kaydedebilir miyim?",
   "home-accordion-tab-content-5": "Filigransız TikTok indiricimiz özel hesapların içeriğine erişemez ve oradan video kaydedemez. TikTok videolarını sizin için indirebilmemiz için hesabın herkese açık olduğundan emin olmalısınız.",
-
   "home-accordion-tab-header-6": "Tiktok videoları için bağlantı nasıl elde edilir?",
   "home-accordion-tab-content-6": "TikTok uygulamasını açın ve kaydetmek istediğiniz videoyu seçin. 'Paylaş' ve ardından 'Kopyala Bağlantısı'nı tıklayın. Tiktok video indir URL'niz panonuza hazırdır.",
-
   "home-accordion-tab-header-7": "İPhone'da (iOS) MP4'teki Tiktok Video'dan nasıl tasarruf edilir?",
   "home-accordion-tab-content-7": "Apple'ın gizlilik politikası nedeniyle, iOS 12 ve altından başlayarak, Tiktok'u filigran olmadan iPhone'unuza kaydedemezsiniz. Safari'yi kullanabilmek ve Tiktok video indirme işlemini başlatmak için iOS'u en son sürüme güncellemelisiniz. Hala kaydedemiyorsanız, yukarıdaki talimatları izleyin.",
-
   "home-accordion-tab-header-8": "TikTok İndiricinizi Android telefonumda kullanabilir miyim?",
   "home-accordion-tab-content-8": "Evet, TikTok videolarını Android telefona filigran olmadan kaydetmek için SSSTik.io kullanabilirsiniz. Hizmetimiz yüzde 100 ücretsiz, çok hızlı ve sürekli güncelleniyor.",
   "home-accordion-tab-header-9": "TikTok videolarını HD olarak indirebilir miyim?",
@@ -139,5 +132,29 @@
   "story-accordion-tab-header-2": "TikTok profilinden hikayeler, videolar veya slayt gösterileri indirebilir miyim?",
   "story-accordion-tab-content-2": "Evet, herhangi bir içeriği indirebilir ve cihazınıza kaydedebilirsiniz: akıllı telefon veya bilgisayar. Tek ihtiyacınız olan, bağlantıyı TikTok hikaye koruyucumuzdaki giriş alanına yapıştırmak ve dosya formatını seçmek.",
   "story-accordion-tab-header-3": "Tiktok Story Downloader'ı kullanmak için ödeme yapmam gerekiyor mu?",
-  "story-accordion-tab-content-3": "TikTok Viewer ne kadar dosya kaydederseniz kaydedin ücretsizdir. TikTok'tan hikayeleri veya slayt gösterilerini görüntülemek veya anonim olarak indirmek istiyorsanız bir deneyin."
+  "story-accordion-tab-content-3": "TikTok Viewer ne kadar dosya kaydederseniz kaydedin ücretsizdir. TikTok'tan hikayeleri veya slayt gösterilerini görüntülemek veya anonim olarak indirmek istiyorsanız bir deneyin.",
+  "faq-header-text": "Sıkça Sorulan Sorular",
+  "faq-accordion-tab-header-1": "İndirmeye çalışırken neden hata görüyorum?",
+  "faq-accordion-tab-content-1": "Birkaç sebep var:",
+  "faq-accordion-tab-bold-content-1": "Video özeldir.",
+  "faq-accordion-tab-standard-content-1": "Üzgünüm, bununla başa çıkamayız.",
+  "faq-accordion-tab-bold-content-2": "Video mevcut değil.",
+  "faq-accordion-tab-standard-content-2": "Bu davayı inceliyoruz. Mümkünse düzelteceğiz.",
+  "faq-accordion-tab-bold-content-3": "Yanlış türde bağlantılar yapıştırırsınız.",
+  "faq-accordion-tab-standard-content-3": "Şu anda tek bir video içeren sayfalardan indirmeyi destekliyoruz. Bir kullanıcı profili bağlantısı veya başka bir şeyi yapıştırırsanız, hata görürsünüz.",
+  "faq-accordion-tab-bold-content-4": "bizim tarafımızda bir şeyler yanlış.",
+  "faq-accordion-tab-standard-content-4": "Bağlantınızın doğru olduğundan eminseniz, bir kez daha indirmeyi deneyin.",
+  "faq-accordion-tab-header-2": "Video kalitesi düşük. HD'de indirmenin bir yolu var mı?",
+  "faq-accordion-tab-content-2": "Videonun çözünürlüğünü veya diğer parametrelerini değiştirmiyoruz. İndirdiğiniz videoları düzenlemiyoruz. Yalnızca Tiktok sunucularında bulunan orijinal dosyaya bir bağlantı sağlarız.",
+  "faq-accordion-tab-br-content-2": "Temel olarak bu, orijinal dosya düşük kalitede olduğu için daha kaliteli yapamayacağımız anlamına gelir.",
+  "faq-accordion-tab-header-3": "IP'm yasaklanmış gibi görünüyor. Ne yapmalıyım?",
+  "faq-accordion-tab-content-3": "Bu yanlışlıkla olabilir. Lütfen, sstiktok.com[at]gmail.com adresinden bize ulaşın ve kilidini aç gereken IP'leri sağlayın.",
+  "faq-accordion-tab-header-4": "Video indirme uygulamanız var mı?",
+  "faq-accordion-tab-content-4": "Tabii ki, doğrudan APK sayfamızdan indirebilir ve herhangi bir sorun olmadan Tiktok'tan video veya müzik indirebilirsiniz.",
+  "faq-accordion-tab-header-5": "Uygulamayı yükleyemiyorum, ne yapmalıyım?",
+  "faq-accordion-tab-content-5": "Bir bağlantı olup olmadığını görmek için Wi-Fi veya İnternetinizi kontrol edin ve ayrıca cihazınızın yeterli boş alana sahip olup olmadığını ve Android sürümünüz tarafından desteklendiğini kontrol edin.",
+  "faq-accordion-tab-header-6": "İndirme birden çok dosyanın bir özelliğini ekleyebilir misiniz?",
+  "faq-accordion-tab-content-6": "Şimdi değil. Bu soruya daha sonra geri döneceğiz",
+  "invalid-link": "Geçersiz link.",
+  "link-followed-has-expired": "Edilen bağlantının süresi doldu."
 }

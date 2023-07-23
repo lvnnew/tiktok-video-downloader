@@ -1,5 +1,5 @@
 {
-  "how-to-save": "Hoe kan ik video opslaan?",
+  "how-to-save": "Hoe kan ik TikTok video opslaan?",
   "download-tiktok-mp3": "TikTok MP3 downloaden",
   "tiktok-downloader": "TikTok video downloader",
   "just-insert-a-link": "Plaats gewoon een link",
@@ -20,7 +20,7 @@
   "find-a-tt-content": "- speel een video af die u op uw mobiele apparaat wilt opslaan met de TikTok-app",
   "copy-link": "Kopieer de link",
   "copy-link-content": "- tik op 'Delen' (de pijlknop bovenaan een gekozen video) en tik vervolgens op 'Kopieer link'",
-  "download-tiktok": "Download TikTok",
+  "download-tiktok": "TikTok downloaden",
   "download-tiktok-content": "- ga terug naar SSSTik.io TikTok en plak de TikTok-filmlink in het tekstveld op de pagina en tik op de knop 'Downloaden'",
   "most-popular-content": "SSSTik.io is een van de meest populaire tools om TikTok video zonder watermerk op te slaan. U hoeft geen apps te installeren om onze service te gebruiken, u hebt alleen een browser en een geldige TikTok-link nodig om in het invoerveld op de SSSTik.io TikTok video downloader website te plakken en het watermerk van TikTok te verwijderen.",
   "no-trademark": "Geen handelsmerk op je TikToks. Het is een perfecte oplossing voor het nabewerken en publiceren van video's.",
@@ -46,25 +46,18 @@
   "video-on-ipad-4-content": "Als deze methode niet bij je past, lees dan de instructies voor de TikTok-saver hieronder.",
   "home-accordion-tab-header-1": "Moet ik betalen om tiktok downloaden?",
   "home-accordion-tab-content-1": "Nee, je hoeft nergens voor te betalen, want onze TikTok video download is altijd gratis! We ondersteunen alle moderne browsers zoals Google Chrome, Mozilla Firefox, Safari, Microsoft Edge en etc.",
-
   "home-accordion-tab-header-2": "Moet ik extensies installeren om TikTok downloader te gebruiken?",
   "home-accordion-tab-content-2": "Nee. Om het watermerk van TikTok online op te slaan en te verwijderen, heb je alleen een link nodig. Plak het in het invoerveld en selecteer het juiste formaat voor conversie. Onze TikTok-watermerkverwijderaar doet de rest.",
-
   "home-accordion-tab-header-3": "Waar worden TikTok-video's opgeslagen na het downloaden?",
   "home-accordion-tab-content-3": "Wanneer u zonder handelsmerk opslaat vanuit TikTok, worden bestanden meestal opgeslagen op uw standaardlocatie. In je browserinstellingen kun je de doelmap voor je gedownloade TikTok-video's wijzigen en handmatig selecteren.",
-
   "home-accordion-tab-header-4": "Heb ik een TikTok-account nodig om video TikTok te downloaden?",
   "home-accordion-tab-content-4": "Nee, u hoeft geen TikTok-account te hebben. Je kunt video TikTok downloaden als je er een link naar hebt, plak het gewoon in het downloadveld bovenaan de pagina en klik op 'Downloaden'. Onze TikTok download service verwijdert het watermerk van TikTok en de video is binnen enkele seconden klaar voor gebruik.",
-
   "home-accordion-tab-header-5": "Kan je TikTok downloader video's van persoonlijke accounts opslaan?",
   "home-accordion-tab-content-5": "Onze TikTok saver zonder watermerk heeft geen toegang tot de inhoud van privéaccounts en kan daar geen video's opslaan. Je moet ervoor zorgen dat het account openbaar is zodat we TikTok video voor je kunnen opslaan.",
-
   "home-accordion-tab-header-6": "Hoe krijg ik een downloadlink voor TikTok-video's?",
   "home-accordion-tab-content-6": "Open de TikTok-app en kies de video die je wilt opslaan. Klik op 'Delen' en vervolgens op 'Kopieer link'. Je download URL staat klaar op je klembord.",
-
   "home-accordion-tab-header-7": "Hoe sparen je op van Tiktok -video in MP4 op iPhone (iOS)?",
   "home-accordion-tab-content-7": "Vanwege het privacybeleid van Apple, vanaf iOS 12 en lager, kunt u Tiktok niet opslaan zonder watermerk voor uw iPhone. U moet iOS bijwerken naar de nieuwste versie om Safari te kunnen gebruiken en het Tiktok -video -downloadproces te starten. Als u ze nog steeds niet kunt opslaan, volgt u de bovenstaande instructies.",
-
   "home-accordion-tab-header-8": "Kan ik je TikTok Downloader gebruiken op mijn Android-telefoon?",
   "home-accordion-tab-content-8": "Ja, je kunt SSSTik.io gebruiken om TikTok video's zonder watermerk op een Android-telefoon op te slaan. Onze service is 100 procent gratis, zeer snel en wordt voortdurend bijgewerkt.",
   "home-accordion-tab-header-9": "Kan ik TikTok-video's in HD downloaden?",
@@ -139,5 +132,29 @@
   "story-accordion-tab-header-2": "Kan ik verhalen, video's of diavoorstellingen van het TikTok-profiel downloaden?",
   "story-accordion-tab-content-2": "Ja, u kunt inhoud downloaden en opslaan op uw apparaat: smartphone of computer. Het enige dat u nodig heeft, is de link in het invoerveld op onze TikTok-verhaalbeveiliging te plakken en het bestandsformaat te selecteren.",
   "story-accordion-tab-header-3": "Moet ik betalen om de TikTok story downloader te gebruiken?",
-  "story-accordion-tab-content-3": "Onze TikTok Viewer is gratis, ongeacht hoeveel bestanden u opslaat. Probeer het eens als je verhalen of diavoorstellingen van TikTok wilt bekijken of anoniem wilt downloaden."
+  "story-accordion-tab-content-3": "Onze TikTok Viewer is gratis, ongeacht hoeveel bestanden u opslaat. Probeer het eens als je verhalen of diavoorstellingen van TikTok wilt bekijken of anoniem wilt downloaden.",
+  "faq-header-text": "Veel Gestelde Vragen",
+  "faq-accordion-tab-header-1": "Waarom zie ik fout bij het downloaden?",
+  "faq-accordion-tab-content-1": "Er zijn verschillende redenen:",
+  "faq-accordion-tab-bold-content-1": "Video is privé.",
+  "faq-accordion-tab-standard-content-1": "Sorry, we kunnen er niet mee omgaan.",
+  "faq-accordion-tab-bold-content-2": "Video is niet beschikbaar.",
+  "faq-accordion-tab-standard-content-2": "We bestuderen deze zaak. We zullen het indien mogelijk oplossen.",
+  "faq-accordion-tab-bold-content-3": "u plakt het verkeerde type links.",
+  "faq-accordion-tab-standard-content-3": "Op dit moment ondersteunen we het downloaden van pagina's die één video bevatten. Als u een gebruikersprofiellink of iets anders plakt, ziet u een fout.",
+  "faq-accordion-tab-bold-content-4": "Er is iets mis aan onze zijde.",
+  "faq-accordion-tab-standard-content-4": "Als u zeker weet dat uw link correct is, probeer dan nog een keer te downloaden.",
+  "faq-accordion-tab-header-2": "Videokwaliteit is laag. Is er een manier om te downloaden in HD?",
+  "faq-accordion-tab-content-2": "We wijzigen de resolutie of andere parameters van de video niet. We bewerken geen video's die u downloadt. We bieden alleen een link naar het originele bestand dat zich op Tiktok -servers bevindt.",
+  "faq-accordion-tab-br-content-2": "In feite betekent dat dat we geen betere kwaliteit kunnen maken, omdat het originele bestand van slechte kwaliteit is.",
+  "faq-accordion-tab-header-3": "Het lijkt erop dat mijn IP verboden is. Wat moet ik doen?",
+  "faq-accordion-tab-content-3": "Dit kan per ongeluk gebeuren. Neem contact met ons op via sstiktok.com[op]gmail.com en geef de IP's die niet moeten worden onbannen.",
+  "faq-accordion-tab-header-4": "Heeft u een video -download -app?",
+  "faq-accordion-tab-content-4": "Natuurlijk kunt u het rechtstreeks van onze APK -pagina downloaden en video's of muziek downloaden van Tiktok zonder problemen.",
+  "faq-accordion-tab-header-5": "Ik kan de app niet installeren, wat moet ik doen?",
+  "faq-accordion-tab-content-5": "Controleer uw wifi of internet om te zien of er een verbinding is en controleer ook of uw apparaat voldoende vrije ruimte heeft en wordt ondersteund door uw versie van Android.",
+  "faq-accordion-tab-header-6": "Kunt u een functie toevoegen van het downloaden van meerdere bestanden?",
+  "faq-accordion-tab-content-6": "Niet nu. We zullen later teruggaan naar deze vraag",
+  "invalid-link": "Ongeldige link.",
+  "link-followed-has-expired": "Gevolgde link is verlopen."
 }
